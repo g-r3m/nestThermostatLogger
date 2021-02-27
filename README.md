@@ -4,6 +4,8 @@ I slightly modified the project from @benlcollins.
 
 Please check is fantastic blog and give him warm thanks for this: [benlcollins.com](https://www.benlcollins.com). 
 
+Full article for this project can be find [here](https://www.benlcollins.com/apps-script/nest-thermostat/) 
+
 Project to log data from Google Nest thermostats into a Google Sheet, using the Smart Device Management (SDM) API and Apps Script. 
 Instead of using (weather.gov API) to add local weather data which is limited and not worldwide I have used [openweathermap.com](https://openweathermap.com).   which offer a nice free version.
 
